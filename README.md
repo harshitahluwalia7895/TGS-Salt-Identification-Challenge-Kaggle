@@ -1,2 +1,2 @@
-# Kaggle_Challenge_LIVE
-This is the code for "Kaggle Challenge (LIVE)" by Siraj Raval on Youtube
+# Kaggle_Challenge
+This is the code for "Kaggle Challenge " by Harshit Ahluwalia
